@@ -1,10 +1,10 @@
 # Site settings
-title: Mental Guy
-SEOTitle: 田超的博客 | Mental Guy
+title: Daniels Shelby
+SEOTitle: 田超的博客 | Daniels Shelby
 header-img: img/post-bg-desk.jpg
 email: 986809452@qq.com
 description: "As long as the young spirit in, Where are the real force."
-keyword: "TC, Mental Guy,田超的博客, tianchao, 田超, iOS, Apple, iPhone"
+keyword: "TC, Daniels Shelby,田超的博客, tianchao, 田超, iOS, Apple, iPhone"
 url: "https://danielsshelby.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -19,8 +19,8 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:    田超Mental guy 
-github_username:   Mental guy
+zhihu_username:    田超Daniels Shelby
+github_username:   Daniels Shelby
 facebook_username:  
 jianshu_username:   323eca6bb9fe
 #twitter_username:   tianchao

@@ -1,0 +1,19 @@
+{
+  "name": "LWT Angel",
+  "short_name": "LWT Angel",
+  "description": "A personal angel lwt engineer",
+  "icons": [{
+    "src": "icons/robot.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "icons/robots.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}

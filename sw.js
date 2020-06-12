@@ -86,7 +86,6 @@ self.addEventListener('install', e => {
   )
 });
 
-
 /**
  *  @Lifecycle Activate
  *  New one activated when old isnt being used.

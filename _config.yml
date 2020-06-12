@@ -1,11 +1,11 @@
 # Site settings
-title: LWT Angle
-SEOTitle: 李文拓的博客 | LWT Angle
+title: Mental Guy
+SEOTitle: 田超的博客 | Mental Guy
 header-img: img/post-bg-desk.jpg
-email: angle.lwt@qq.com
+email: 986809452@qq.com
 description: "The angel will choose to abandon you for everyone, and the devil will fight against the whole world for you."
-keyword: "LWT, LWT Angle,李文拓的博客, liwentuo, 李文拓, iOS, Apple, iPhone"
-url: "https://anglelwt.github.io"          # your host, for absolute URL
+keyword: "TC, Mental Guy,田超的博客, tianchao, 田超, iOS, Apple, iPhone"
+url: "https://danielsshelby.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
@@ -19,11 +19,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     
-zhihu_username:    李文拓Angle 
-github_username:   AngleLwt
+zhihu_username:    田超Mental guy 
+github_username:   Mental guy
 facebook_username:  
 jianshu_username:   323eca6bb9fe
-#twitter_username:   liwentuo
+#twitter_username:   tianchao
 
 
 

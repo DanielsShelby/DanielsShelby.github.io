@@ -1,14 +1,14 @@
 {
-    "name": "lwt-angel",
-    "title": "LWT Angel",
-    "author": "LWT <angel.lwt@qq.com>",
+    "name": "Tc-daniels",
+    "title": "TC Daniels",
+    "author": "986809452@qq.com>",
     "version": "1.7.0",
-    "homepage": "https://anglelwt.github.io/",
+    "homepage": "https://danielsshelby.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://anglelwt.github.io/anglelwt.github.io"
+        "url": "https://DanielsShelby.github.io/DanielsShelby.github.io"
     },
-    "bugs": "https://anglelwt.github.io/anglelwt.github.io/issues",
+    "bugs": "https://DanielsShelby.github.io/DanielsShelby.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
